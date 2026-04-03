@@ -59,9 +59,10 @@ plot(w/pi,abs(h),'blue');
 
 
 ## OUTPUT:
-<img width="691" height="618" alt="image" src="https://github.com/user-attachments/assets/34572d51-666f-45c4-b8c4-10b69ddf7683" />
+![WhatsApp Image 2026-04-01 at 7 40 26 AM](https://github.com/user-attachments/assets/ea78ee17-4a8e-4b64-bf63-edb71b330051)
 
 
 ## RESULT:
-![WhatsApp Image 2026-04-03 at 4 03 16 PM](https://github.com/user-attachments/assets/5fc07197-d489-4a9d-835a-0463c73d00b9)
+![WhatsApp Image 2026-04-03 at 4 02 44 PM](https://github.com/user-attachments/assets/55c87ab3-25a6-4998-8b87-126df0c70195)
+
 
